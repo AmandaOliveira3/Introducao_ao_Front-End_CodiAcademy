@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300&family=Open+Sans&family=Oswald&family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300&family=Open+Sans&family=Oswald&family=Righteous&family=Roboto&display=swap');
+
+body {
+    font-size: 30px;
+}
+
+#texto {
+    font-family: Roboto;
+}
+
+#especial {
+    font-size: 2em;
+    font-family: Arial, Courier;
+    font-family: Oswald;
+}
+
+.key{
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
